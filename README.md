@@ -6,6 +6,6 @@ Hello and thank you for visiting our _Issue Tracker_ repository. With **GitHub**
 
 To report an issue/bug, it's quite easy. Simply follow the gif below and you'll soon be reporting bugs like it's nothing!
 
-https://i.gyazo.com/143b1dfa4cfc4728e7d74bb4005a0c35.mp4
+![gif](https://i.gyazo.com/143b1dfa4cfc4728e7d74bb4005a0c35.mp4)
 
 
